@@ -22,7 +22,7 @@ Sometimes the best solution is simply the one that works well and solves a real 
 
 ## Currently building
 
-### miDescuento.online
+### [miDescuento.online](https://midescuento.online/)
 
 A personal product I'm currently building for **local businesses and their customers**, focused on discounts, memberships and tools that can help small businesses manage and improve their daily operations.
 
